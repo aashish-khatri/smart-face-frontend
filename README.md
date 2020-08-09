@@ -17,7 +17,7 @@
 
 ## 🛠 Installation & Set Up
 
-You have to set up both <a href="https://github.com/aashish-khatri/smart-face-backend" target="_blank">backend</a> and frontend server.
+You have to set up both frontend and <a href="https://github.com/aashish-khatri/smart-face-backend" target="_blank">backend</a> server.
 
 1. Create a folder
 
