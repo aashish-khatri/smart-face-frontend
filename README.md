@@ -43,3 +43,5 @@ You have to set up both <a href="https://github.com/aashish-khatri/smart-face-ba
    ```bash
    npm start
    ```
+##Note 
+This project is a part Andrew Negoi's web developer udemy course.
