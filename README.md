@@ -5,7 +5,7 @@
   SmartFaceRecognition
 </h1>
 <p align="center">
-  Full Stack Face Recognition WebApp built using React, Node, Clarifai API and hash secure Postgres database deployed on Heroku Platform.
+  Full Stack Face Recognition WebApp built using React, Node, Clarifai API and hash secured Postgres database deployed on Heroku Platform.
 </p>
 <p align="center">
   <a href="https://smart-face123.herokuapp.com/" target="_blank">
