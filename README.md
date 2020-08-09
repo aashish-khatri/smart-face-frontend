@@ -43,5 +43,3 @@ You have to set up both frontend and <a href="https://github.com/aashish-khatri/
    ```bash
    npm start
    ```
-## Note 
-This project is a part Andrew Negoi's web developer udemy course.
