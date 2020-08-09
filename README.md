@@ -8,8 +8,8 @@
   Full Stack Face Recognition WebApp built using React, Node, Clarifai API and hash secure Postgres database deployed on Heroku Platform.
 </p>
 <p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://heroku-badge.herokuapp.com/?app=heroku-badge" alt="Netlify Status" />
+  <a href="https://smart-face123.herokuapp.com/" target="_blank">
+    <img src="https://heroku-badge.herokuapp.com/?app=heroku-badge" alt="Heroku Status" />
   </a>
 </p>
 
